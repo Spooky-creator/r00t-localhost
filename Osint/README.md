@@ -1,7 +1,7 @@
 # Weak 
 What is one of the most commonly used passwords in the world, often considered weak and insecure?
 
-Flag : 12345678
+Flag : ```12345678```
 
 # Locate the Bridge
 
